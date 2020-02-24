@@ -27,6 +27,9 @@ public class Main {
              double f_c;
              int L;
 
+             N = rStar * f_p * numberOfExoplanets * f_l * f_i * f_c * L
+
+             System.out.println("The Number Of Intellegent Species that are out there that can communicate with us is:" + N)
 
     }
 
